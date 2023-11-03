@@ -5,6 +5,7 @@ Envio de SMS utilizando Twilio para confirmação de cadastro com armazenamento 
 <p>Até a data de criação desse projeto a plataforma permite a criação de conta com créditos gratuitos</p>
 <p>Modifique o arquivo <b>connect.py</b> com seu Token, Usuario e telefone (internacional) fornecidos dentro da plataforma Twilio</p>
 <p>Programa utliza o console para sua execução utilize as bibliotecas:</p>
+
 ```
 pip install twilio
 ```
@@ -12,7 +13,8 @@ pip install twilio
 pip install tinydb
 ```
 
-Execute o programa de <b>main.py</b> :
+<p>Execute o programa de <b>main.py</b> :</p>
+
 ```
 python -u <SEU_DIRETORIO>\Twilio-SMS-JSON\main.py
 ```
