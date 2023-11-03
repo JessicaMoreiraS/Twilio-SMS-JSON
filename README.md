@@ -10,7 +10,7 @@ pip install tinydb
 
 Execute o programa de <b>main.py</b> :
 ```
-python -u <seu_diretorio>\Twilio-SMS-JSON\main.py
+python -u <SEU_DIRETORIO>\Twilio-SMS-JSON\main.py
 ```
 
 Funcionamento:
