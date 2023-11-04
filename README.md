@@ -25,3 +25,5 @@ Funcionamento:
 <p>Caso o código esteja correto a "validação" será alterada para "true", porém, caso estejá incorreto o usuário será deletado de <b>Usuarios.json</b>, caso queira poderá realizar um novo cadastro.</p>
 <p>O telefone do cadastro está cadastrado como sendo do Brasil, é necessário informar o DDD</p>
 <p>Esse programa é executado dentro do terminal</p>
+
+<sub><a href="https://storyset.com/user">User illustrations by Storyset</a></sub>
